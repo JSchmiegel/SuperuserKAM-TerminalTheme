@@ -1,0 +1,21 @@
+Background:	    #252a36 (pantone 4280 C)
+Foreground:     #80E0A7 (pantone 353 C)
+Cursor:         #425563 (pantone 7545 C)
+
+
+Black:          000000
+Dark Blue:      36639B
+DarkGreen:      38B169
+DarkCyan:       3B968C
+DarkRed:        F65C4D
+DarkMagenta:    D3427D
+DarkYellow:     F6A728
+Gray:           B4B4B4
+DarkGray:       425563
+Blue:           66C7F9
+Green:          AEF158
+Cyan:           A3E9F1
+Red:            FF9287
+Magenta:        9C83F8
+Yellow:         FFDE31
+White:          FFFFFF

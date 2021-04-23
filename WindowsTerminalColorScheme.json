@@ -1,0 +1,23 @@
+{
+    "name": "SuperuserKam",
+    "background": "#252A36",
+    "black": "#0C0C0C",
+    "blue": "#36639B",
+    "brightBlack": "#425563",
+    "brightBlue": "#66C7F9",
+    "brightCyan": "#A3E9F1",
+    "brightGreen": "#AEF158",
+    "brightPurple": "#9C83F8",
+    "brightRed": "#FF9287",
+    "brightWhite": "#FFFFFF",
+    "brightYellow": "#FFDE31",
+    "cursorColor": "#425563",
+    "cyan": "#3B968C",
+    "foreground": "#80E0A7",
+    "green": "#38B169",
+    "purple": "#D3427D",
+    "red": "#F65C4D",
+    "selectionBackground": "#FFFFFF",
+    "white": "#B4B4B4",
+    "yellow": "#F6A728"
+}
