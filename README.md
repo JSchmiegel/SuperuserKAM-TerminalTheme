@@ -5,6 +5,7 @@ This color scheme was created to match the Superuser KAM switches (https://geekh
 # Gnome Terminal
 
 ![Screenshot of the Settings in Gnome Terminal](./docu/GnomeTerminal.png)
+
 Just create a new profile and adjust the colors (you can find the hex values in `ColorScheme.txt`) accordingly.
 
 # Windows Terminal

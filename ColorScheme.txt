@@ -1,4 +1,4 @@
-Background:	    #252a36 (pantone 4280 C)
+Background:     #252a36 (pantone 4280 C)
 Foreground:     #80E0A7 (pantone 353 C)
 Cursor:         #425563 (pantone 7545 C)
 
