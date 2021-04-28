@@ -10,3 +10,13 @@ Just create a new profile and adjust the colors (you can find the hex values in 
 
 # Windows Terminal
 Simply insert the `WindowsTerminalColorTheme.json` as color scheme.
+
+# iTerm2
+1. Download the KAMSuperuser.itermcolors file
+2. Open the preferences menu
+3. Go to your profile
+4. Select the colors tab
+5. Select import in the  "Color Presets" dropdown
+6. Select the color scheme
+7. If needed, select the KAMSuperuser theme from that same dropdown
+8. Done!
