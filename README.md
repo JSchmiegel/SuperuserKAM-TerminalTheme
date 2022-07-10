@@ -1,6 +1,4 @@
----
-lang: en-US
----
+
 # SuperuserKAM - Terminal Theme
 
 ![kam_superuser header](assets/Header.gif)
