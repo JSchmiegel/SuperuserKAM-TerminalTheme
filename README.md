@@ -1,22 +1,25 @@
-# Color scheme matching the Superuser KAM switches
+---
+lang: en-US
+---
+# SuperuserKAM - Terminal Theme
 
-This color scheme was created to match the Superuser KAM switches (https://geekhack.org/index.php?topic=108326.0%3Futm_source%3Dkeycapsets (Last access: 24.04.2021)) and should give you the possibility to configure your terminal accordingly.
+![kam_superuser header](assets/Header.gif)
 
-# Gnome Terminal
+This color scheme was created to match with the `SuperuserKAM` keycap design by [FreshFromTheGrave](https://geekhack.org/index.php?topic=108326.0%3Futm_source%3Dkeycapsets) and should give you the possibility to configure your terminal accordingly.
 
-![Screenshot of the Settings in Gnome Terminal](./docu/GnomeTerminal.png)
+![Example screenshot of the theme in terminal](assets/Demo1.png)
+![Example screenshot of the colors of the theme ](assets/Demo2.png)
 
-Just create a new profile and adjust the colors (you can find the hex values in `ColorScheme.txt`) accordingly.
+## Installation
+We support the installation of the theme with the following terminals.
+- [Windows Terminal]()
+- [iTerm2]()
+- [Gnome Terminal]()
 
-# Windows Terminal
-Simply insert the `WindowsTerminalColorTheme.json` as color scheme.
+Installation guides can be found in the [wiki](https://github.com/JSchmiegel/ColorSchemeSuperuserKAM/wiki)
 
-# iTerm2
-1. Download the KAMSuperuser.itermcolors file
-2. Open the preferences menu
-3. Go to your profile
-4. Select the colors tab
-5. Select import in the  "Color Presets" dropdown
-6. Select the color scheme
-7. If needed, select the KAMSuperuser theme from that same dropdown
-8. Done!
+## VS Code Theme
+If you are excited about the theme, you can find a theme for VS Code in the following repository: [SuperupserKAM VS Code Theme]()
+
+## Open for suggestions and improvements
+If you have any suggestions for improvements or even want to participate on the theme by adding a semantic highlighting I am open for any pull requests.
