@@ -10,9 +10,9 @@ This color scheme was created to match with the `SuperuserKAM` keycap design by 
 
 ## Installation
 We support the installation of the theme with the following terminals.
-- [Windows Terminal]()
-- [iTerm2]()
-- [Gnome Terminal]()
+- [Windows Terminal](https://github.com/JSchmiegel/SuperuserKAM-TerminalTheme/wiki/Installation-Guide:-Windows-Terminal)
+- [iTerm2](https://github.com/JSchmiegel/SuperuserKAM-TerminalTheme/wiki/Installation-Guide:-iTerm2)
+- [Gnome Terminal](https://github.com/JSchmiegel/SuperuserKAM-TerminalTheme/wiki/Installation-Guide:-Gnome-Terminal)
 
 Installation guides can be found in the [wiki](https://github.com/JSchmiegel/ColorSchemeSuperuserKAM/wiki)
 
