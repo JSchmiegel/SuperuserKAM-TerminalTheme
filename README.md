@@ -17,7 +17,9 @@ We support the installation of the theme with the following terminals.
 Installation guides can be found in the [wiki](https://github.com/JSchmiegel/ColorSchemeSuperuserKAM/wiki)
 
 ## VS Code Theme
-If you are excited about the theme, you can find a theme for VS Code in the following repository: [SuperupserKAM VS Code Theme]()
+If you are excited about the theme, you can find a theme for VS Code in the following repository: [SuperupserKAM VS Code Theme](https://github.com/JSchmiegel/SuperuserKAM-VSCodeTheme)
+
+![Example screenshot of the vscode theme](assets/VSCodeDemo1.png)
 
 ## Open for suggestions and improvements
 If you have any suggestions for improvements or even want to participate on the theme by adding a semantic highlighting I am open for any pull requests.
