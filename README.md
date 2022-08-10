@@ -1,4 +1,3 @@
-
 # SuperuserKAM - Terminal Theme
 
 ![kam_superuser header](assets/Header.gif)
@@ -13,6 +12,7 @@ We support the installation of the theme with the following terminals.
 - [Windows Terminal](https://github.com/JSchmiegel/SuperuserKAM-TerminalTheme/wiki/Installation-Guide:-Windows-Terminal)
 - [iTerm2](https://github.com/JSchmiegel/SuperuserKAM-TerminalTheme/wiki/Installation-Guide:-iTerm2)
 - [Gnome Terminal](https://github.com/JSchmiegel/SuperuserKAM-TerminalTheme/wiki/Installation-Guide:-Gnome-Terminal)
+- [MacOS Terminal](https://github.com/JSchmiegel/SuperuserKAM-TerminalTheme/wiki/Installation-Guide:-MacOS-Terminal)
 
 Installation guides can be found in the [wiki](https://github.com/JSchmiegel/ColorSchemeSuperuserKAM/wiki)
 
